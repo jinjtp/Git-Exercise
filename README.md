@@ -29,16 +29,15 @@ c) Update this README.md file:
 
 🖼️ 2. Picture
 
-[!Quote image](Picture/Quote.jpg)
+![Quote image](Picture/Quote.jpg)
 
 🎞️ 3. Animation
-
-[!First Animation](Animation/GITGIF.gif)
-[!Second Animation](Animation/GITGIFa.gif)
+![my melody](Animation/GITGIF.gif)
+![bald](Animation/GITGIFa.gif)
 
 💬 4. Quote
 
 > Revision control gives us the confidence to move forward, because we can always trace our changes and return to what worked.
 
 🎬 5. Video Lecture
-(![Video Lecture](https://www.youtube.com/watch?utm_source=jp.naver.line&utm_content=chat&v=alfmHTYsEU4&feature=youtu.be))
+![Video Lecture](https://www.youtube.com/watch?v=alfmHTYsEU4&t=321s)

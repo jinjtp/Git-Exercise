@@ -25,6 +25,7 @@ c) Update this README.md file:
 👤 1. Student Information
 
 **Name:** Jinjuta Peecharsoontorn
+
 **Email:** 6730069121@student.chula.ac.th
 
 🖼️ 2. Picture
@@ -32,12 +33,14 @@ c) Update this README.md file:
 ![Quote image](Picture/Quote.jpg)
 
 🎞️ 3. Animation
-![my melody](Animation/GITGIF.gif)
-![bald](Animation/GITGIFa.gif)
+
+![Animation gifgif](Animation/GITGIF.gif)
+![Animation gifgifa](Animation/GITGIFa.gif)
 
 💬 4. Quote
 
 > Revision control gives us the confidence to move forward, because we can always trace our changes and return to what worked.
 
 🎬 5. Video Lecture
-![Video Lecture](https://www.youtube.com/watch?v=alfmHTYsEU4&t=321s)
+
+[![Video Lecture](https://img.youtube.com/vi/alfmHTYsEU4/hqdefault.jpg)](https://youtu.be/alfmHTYsEU4)
